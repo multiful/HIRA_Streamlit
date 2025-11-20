@@ -11,5 +11,6 @@
 
 [PDF](https://github.com/user-attachments/files/23655893/3805_2_3_8_NBD.pdf)
 
+[FIGMA](https://www.figma.com/proto/dS9CrD2hsLZzkvkAgFc4xi?node-id=0-1&t=BGqAVemjihn0riOO-6)
 
 ---
