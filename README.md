@@ -7,8 +7,9 @@
 
 # Link
 ---
-URL : https://visualproject-w2fzqfdpintkrnpyasxpzk.streamlit.app/
+[URL](https://visualproject-w2fzqfdpintkrnpyasxpzk.streamlit.app/)
 
-PDF :[3805_2_3_8_NBD.pdf](https://github.com/user-attachments/files/23655893/3805_2_3_8_NBD.pdf)
+[PDF](https://github.com/user-attachments/files/23655893/3805_2_3_8_NBD.pdf)
+
 
 ---
