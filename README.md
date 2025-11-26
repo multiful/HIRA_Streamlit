@@ -16,8 +16,8 @@
 - **Demo URL**  
   [https://visualproject-w2fzqfdpintkrnpyasxpzk.streamlit.app/](https://visualproject-w2fzqfdpintkrnpyasxpzk.streamlit.app/)
 
-- **보고서(PDF)**  
-  [대시보드드 PDF](https://github.com/user-attachments/files/23655893/3805_2_3_8_NBD.pdf)
+- **발표자료(PDF)**  
+  [발표자료 PDF](https://github.com/user-attachments/files/23655893/3805_2_3_8_NBD.pdf)
 
 - **FIGMA 프로토타입**  
   [UI/UX 설계 Figma 보기](https://www.figma.com/proto/dS9CrD2hsLZzkvkAgFc4xi?node-id=0-1&t=BGqAVemjihn0riOO-6)
