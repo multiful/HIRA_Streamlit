@@ -5,26 +5,26 @@
 
 ---
 
-## 📸 대시보드 미리보기
+## 대시보드 미리보기
 
 <img width="1854" height="861" alt="image" src="https://github.com/user-attachments/assets/32677f5d-c74e-4091-805c-c47c096e5c9f" />
 
 ---
 
-## 🔗 Link
+## Link
 
 - **Demo URL**  
   [https://visualproject-w2fzqfdpintkrnpyasxpzk.streamlit.app/](https://visualproject-w2fzqfdpintkrnpyasxpzk.streamlit.app/)
 
 - **보고서(PDF)**  
-  [과제/프로젝트 설명 PDF](https://github.com/user-attachments/files/23655893/3805_2_3_8_NBD.pdf)
+  [대시보드드 PDF](https://github.com/user-attachments/files/23655893/3805_2_3_8_NBD.pdf)
 
 - **FIGMA 프로토타입**  
   [UI/UX 설계 Figma 보기](https://www.figma.com/proto/dS9CrD2hsLZzkvkAgFc4xi?node-id=0-1&t=BGqAVemjihn0riOO-6)
 
 ---
 
-## 📝 프로젝트 개요
+## 프로젝트 개요
 
 - **목적**  
   - 폐렴 입원 환자의 진료량·결과 지표를 시각화하여, 병원·연령·기간별 특성을 직관적으로 파악
@@ -36,7 +36,7 @@
 
 ---
 
-## 🔍 주요 기능
+## 주요 기능
 
 - 기간, 연령대, 성별, 기관 유형 등 **필터링 기능**
 - 입원 환자 수, 평균 재원일수, 사망률 등 **핵심 지표 카드** 제공
@@ -46,7 +46,7 @@
 
 ---
 
-## 📊 데이터
+## 데이터
 
 - **데이터 출처**: HIRA(건강보험심사평가원) 공개 자료 및 강의/과제에서 제공된 가공 데이터
 - **주요 컬럼 예시**  
@@ -58,17 +58,17 @@
 
 ---
 
-## 🛠 기술 스택
+## 기술 스택
 
 - **Dashboard**: Streamlit
-- **Language**: Python (pandas, numpy 등)
-- **Visualization**: Plotly / Altair (사용한 것만 적기)
-- **Design**: Figma (와이어프레임 & 프로토타입 제작)
+- **Language**: Python
+- **Visualization**: Plotly 
+- **Design**: Figma
 - **Version Control**: Git / GitHub
 
 ---
 
-## 👤 내 역할
+## 내 역할
 
 - 폐렴 환자 대시보드 **지표 선정 및 화면 레이아웃 설계**
 - Figma를 활용한 **UI 프로토타입 제작** 및 피드백 반영
@@ -76,8 +76,8 @@
   - 필터(기간/연령/기관) 로직 및 쿼리 구성
   - 주요 카드 지표·그래프·테이블 컴포넌트 구현
 - 데이터 전처리 및 집계 코드 작성(pandas)
+- 피쳐 엔지니어링 및 주요 피쳐 통계 분석
 
-(실제 네가 한 일에 맞게 항목을 조금씩 빼거나 추가해줘.)
 
 ---
 
