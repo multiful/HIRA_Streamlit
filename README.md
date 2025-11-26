@@ -78,10 +78,8 @@
 - 데이터 전처리 및 집계 코드 작성(pandas)
 - 피쳐 엔지니어링 및 주요 피쳐 통계 분석
 
-```md
-## 실행 방법
-```
 
+## 실행 방법
 
 ```bash
 git clone https://github.com/multiful/HIRA_Streamlit.git
