@@ -79,4 +79,11 @@
 - 피쳐 엔지니어링 및 주요 피쳐 통계 분석
 
 
----
+```md
+## 실행 방법 (간단 버전)
+
+```bash
+git clone https://github.com/multiful/HIRA_Streamlit.git
+cd HIRA_Streamlit
+pip install -r requirements.txt
+streamlit run streamlit.py
