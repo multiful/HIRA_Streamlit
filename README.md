@@ -14,7 +14,7 @@
 ## Link
 
 - **Demo URL**  
-  [https://visualproject-w2fzqfdpintkrnpyasxpzk.streamlit.app/](https://visualproject-w2fzqfdpintkrnpyasxpzk.streamlit.app/)
+  [https://visualproject-w2fzqfdpintkrnpyasxpzk.streamlit.app/](https://hira-streamlit.onrender.com/)
 
 - **발표자료(PDF)**  
   [발표자료 PDF](https://github.com/user-attachments/files/23655893/3805_2_3_8_NBD.pdf)
